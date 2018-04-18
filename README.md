@@ -1,6 +1,6 @@
 # crypto-cards
 
-A learning excersice.
+A learning exercise.
 
 
 ## License
